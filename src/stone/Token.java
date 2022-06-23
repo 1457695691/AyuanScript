@@ -1,3 +1,5 @@
+package stone;
+
 /**
  * 支持标识符、整形字面量、字符串字面量
  * @author Ayuan

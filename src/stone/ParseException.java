@@ -1,3 +1,5 @@
+package stone;
+
 import java.io.IOException;
 
 /**
